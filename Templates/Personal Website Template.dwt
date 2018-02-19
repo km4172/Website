@@ -44,7 +44,7 @@
             <li><a href="/resume.html">Separated link</a></li>
           </ul>
         </li>
-		  <li> <a href="http://www.kaylamidlam.com/resume.html"> Resume</a></li>
+		  <li> <a href="http://www.kaylamidlam.com/resume"> Resume</a></li>
       </ul>
       <form class="navbar-form navbar-right" role="search">
         <div class="form-group">
