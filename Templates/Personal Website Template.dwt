@@ -35,6 +35,7 @@
         <li class="dropdown"> <a href="http://kaylamidlam.com/currentprojects.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Current Projects<span class="caret"></span></a>
 		  <ul class="dropdown-menu">
 			<li><a href= "../projectwebsite">Website</a></li>
+			<li><a href= "../scripts">JavaScripts</a></li>
 			</ul>
 		  </li>
 		  <!--
@@ -83,7 +84,7 @@
 		<div class="col-lg-4 col-md-4">
 		  <h3 class="text-center">GET IN TOUCH</h3>
           <address class="text-center">
-  <strong>Kayla Midlam</strong><br>
+  <strong>Email</strong><br>
   kmmidlam0@gmail.com<br>
           </address>
 </div>
