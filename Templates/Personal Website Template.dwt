@@ -18,6 +18,7 @@
     <![endif]-->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+	
 </head>
 
 <body>
@@ -30,6 +31,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="myDefaultNavbar1">
       <ul class="nav navbar-nav">
+		  
         <li class="dropdown"> <a href="http://kaylamidlam.com/currentprojects.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Current Projects<span class="caret"></span></a>
 		  <ul class="dropdown-menu">
 			<li><a href= "#">Action</a></li>
@@ -39,9 +41,10 @@
           <ul class="dropdown-menu">
             <li><a href="#">Action</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
+            <li><a href="/resume.html">Separated link</a></li>
           </ul>
         </li>
+		  <li> <a href=""> Resume</a></li>
       </ul>
       <form class="navbar-form navbar-right" role="search">
         <div class="form-group">
@@ -54,80 +57,25 @@
   </div>
   <!-- /.container-fluid --> 
 </nav>
+	<!--TemplateBeginEditable name="body"-->
+	
+	
 <section>
   <div class="jumbotron text-center">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs12">
-          <h1>Kayla Midlam</h1>
-          <p>My personal website for publishing different projects and professional information</p>
-          <p><a class="btn btn-primary btn-lg" href="http://www.linkedin.com/in/kaylamidlam" role="button">LinkedIn »</a></p>
-        </div>
-      </div>
-    </div>
+    <div class="container"> </div>
   </div>
 </section>
-<section>
-  <div class="container">
-    <div class="row"></div>
-  </div>
-</section>
-<section></section>
-
-<section>
-	<div class="container">
-		<div class="row">
-        	<div class="col-lg-12 text-center">
-            	<h2>Latest Work</h2>
-            	<p>Some Photographs Taken by Me</p>
-            </div>
-        </div>
-        <div class="row">
-        	<div class="col-md-6 text-center">
-            	<img src="../images/400x400.gif" alt="">
-                <h3>Lorem ipsum dolor sit amet, consectetur elit</h3>
-                <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
-            </div>
-        	<div class="col-md-6 text-center">
-            	<img src="../images/400x400.gif" alt="">
-                <h3>Lorem ipsum dolor sit amet, consectetur elit</h3>
-                <h6>Lorem ipsum dolor sit amet, consectetur elit</h6>
-            </div>
-        </div>
-        <div class="row">
-        	<div class="col-md-3 text-center col-sm-6 col-xs-6"><img src="../images/200x200.gif" alt=""></div>
-        	<div class="col-md-3 text-center col-sm-6 col-xs-6"><img src="../images/200x200.gif" alt=""></div>
-			<div class="col-md-3 text-center col-sm-6 col-xs-6 hidden-xs hidden-sm"><img src="../images/200x200.gif" alt=""></div>
-        	<div class="col-md-3 text-center col-sm-6 col-xs-6 hidden-xs hidden-sm"><img src="../images/200x200.gif" alt=""></div>
-      </div>
-      <hr>
-        <div class="row">
-          <div class="col-md-3 text-center col-sm-6 col-xs-6"><img src="../images/200x200.gif" alt=""></div>
-          <div class="col-md-3 text-center col-sm-6 col-xs-6"><img src="../images/200x200.gif" alt=""></div>
-          <div class="col-md-3 text-center col-sm-6 col-xs-6 hidden-xs hidden-sm"><img src="../images/200x200.gif" alt=""></div>
-          <div class="col-md-3 text-center col-sm-6 col-xs-6 hidden-xs hidden-sm"><img src="../images/200x200.gif" alt=""></div>
-        </div>
-	</div>
-</section>
+	
+	
+	<!--TemplateEndEditable-->
 <hr>
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h1>Lorem ipsum dolor sit amet</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos quis labore dicta.</p>
-		<button type="button" class="btn btn-success">Get in touch</button>
-      </div>
-    </div>
-  </div>
-</section>
 <hr>
 <div class="section well">
     <div class="container">
    	  <div class="row">
 		<div class="col-lg-4 col-md-4">
             <h3 class="text-center">WHO I AM</h3>
-            <h5>I am an electrical engineering student and computer science minor at the University of Arkansas. This website is my ongoing project in an attempt to learn and implement HTML, CSS, and JavaScript.</h5>
+            <h5 class="text-center">I am an electrical engineering student and computer science minor at the University of Arkansas. This website is my ongoing project in an attempt to learn and implement HTML, CSS, and JavaScript.</h5>
         </div>
 		<div class="col-lg-4 col-md-4">
 		  <h3 class="text-center">GET IN TOUCH</h3>
@@ -162,5 +110,7 @@
 <script src="../js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="../js/bootstrap.js"></script>
+	
+	
 </body>
 </html>
