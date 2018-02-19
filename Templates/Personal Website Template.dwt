@@ -37,14 +37,14 @@
 			<li><a href= "#">Action</a></li>
 			</ul>
 		  </li>
-        <li class="dropdown"> <a href="http://www.kaylamidlam.com/pastprojects.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Past Projects <span class="caret"></span></a>
+        <li class="dropdown"> <a href="../pastprojects" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Past Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Action</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="/resume.html">Separated link</a></li>
+            <li><a href="#">Separated link</a></li>
           </ul>
         </li>
-		  <li> <a href="http://www.kaylamidlam.com/resume"> Resume</a></li>
+		  <li> <a href="../resume"> Resume</a></li>
       </ul>
       <form class="navbar-form navbar-right" role="search">
         <div class="form-group">
